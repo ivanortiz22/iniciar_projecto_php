@@ -1,0 +1,12 @@
+{
+    "name": "ivan/composer",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "^2.0@dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5@dev"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
